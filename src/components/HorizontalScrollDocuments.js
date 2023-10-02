@@ -16,7 +16,6 @@ function HorizontalScrollDocuments(props) {
             </div>
           </div>
         ))};
-        {/* Add more cards as needed */}
       </div>
     </div>
   );
